@@ -5,6 +5,10 @@
 🌍 Passionate about building scalable systems and realistic services that help people  
 🌱 Currently focused on system design, LeetCode, and cloud-based backend development
 
+![Visitor Badge](https://komarev.com/ghpvc/?username=sjtemp62&style=flat&color=blue)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjtemp62&layout=compact&hide=html)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjtemp62&show_icons=true&theme=default&hide=contribs)
+
 ## 🛠 Tech Stack
 - **Languages**: Java, Python  
 - **Backend**: Spring Boot (Security, CRUD), REST API  
@@ -38,7 +42,7 @@
 ## 📫 Contact
 - **Blog**: [blog.sjpark-dev.com](https://blog.sjpark-dev.com) *(English technical blog)*  
 - **GitHub**: [sjtemp62](https://github.com/sjtemp62)  
-- **Email**: sjpark1129dev@gmail.com  
+- **Email**: seongjong.dev@gmail.com  
 
 ---
 
