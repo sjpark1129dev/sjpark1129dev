@@ -17,7 +17,7 @@
 - **Tools**: Git, IntelliJ, VSCode  
 
 ## 🚀 Projects
-- [**Closet-In-Diary**](https://github.com/sjtemp62/Closet-In-Diary)  
+- [**Closet-In-Diary**](https://github.com/sjtemp62/ClosetInDiary-Backend)  
   A clothing management web app using Spring Boot and React.  
   Includes login, sign-up, outfit management, and diary features.
 
