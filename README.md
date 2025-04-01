@@ -25,7 +25,7 @@
   A command-line blog system written in Java.  
   Created to practice object-oriented programming and Java skills.
 
-- [**Single-Person Household Data Visualization**](https://github.com/sjtemp62/DataScienceProgrammingProject)  
+- [**Single-Person Household Data Visualization**](https://github.com/sjtemp62/DataScienceProgramming-Project)  
   A data science project analyzing regional data of single-person households using public datasets.
 
 ## ✏️ I'm Learning
