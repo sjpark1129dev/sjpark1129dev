@@ -40,7 +40,6 @@
 - ✅ Build and maintain a portfolio and technical blog
 
 ## 📫 Contact
-- **Blog**: [blog.sjpark-dev.com](https://blog.sjpark-dev.com) *(English technical blog)*  
 - **GitHub**: [sjtemp62](https://github.com/sjtemp62)  
 - **Email**: sjpark1129dev@gmail.com  
 
