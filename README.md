@@ -33,12 +33,6 @@
 - System Design: Distributed systems, caching, microservices  
 - Cloud & DevOps: Kubernetes, Redis, Nginx, Apache
 
-## 📚 Goals for 2025
-- ✅ Achieve OPIc AL or higher  
-- ✅ Score 850+ on TOEIC  
-- ✅ Solve 100 Medium + 30 Hard problems on LeetCode  
-- ✅ Build and maintain a portfolio and technical blog
-
 ## 📫 Contact
 - **GitHub**: [sjtemp62](https://github.com/sjtemp62)  
 - **Email**: sjpark1129dev@gmail.com  
