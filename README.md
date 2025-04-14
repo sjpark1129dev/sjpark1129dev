@@ -34,7 +34,7 @@
 - Cloud & DevOps: Kubernetes, Redis, Nginx, Apache
 
 ## 📫 Contact
-- **GitHub**: [sjtemp62](https://github.com/sjtemp62)  
+- **GitHub**: [sjpark1129dev](https://github.com/sjpark1129dev)  
 - **Email**: sjpark1129dev@gmail.com  
 
 ---
