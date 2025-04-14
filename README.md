@@ -21,7 +21,7 @@
   A clothing management web app using Spring Boot and React.  
   Includes login, sign-up, outfit management, and diary features.
 
-- [**CLI Blog**](https://github.com/sjpark1129dev/CLI-Blog)  
+- [**CLI Blog**](https://github.com/sjpark1129dev/CLI-Board)  
   A command-line blog system written in Java.  
   Created to practice object-oriented programming and Java skills.
 
