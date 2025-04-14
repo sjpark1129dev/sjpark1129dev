@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Seongjong Park (sjtemp62)
+# 👋 Hi, I'm Seongjong Park (sjpark1129dev)
 
 🎓 Junior Computer Science student at Dongeui University, Busan  
 💻 Aspiring Backend Developer | DevOps & Cloud Enthusiast  
 🌍 Passionate about building scalable systems and realistic services that help people  
 🌱 Currently focused on system design, LeetCode, and cloud-based backend development
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=sjtemp62&style=flat&color=blue)  
+![Visitor Badge](https://komarev.com/ghpvc/?username=sjpark1129dev&style=flat&color=blue)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjtemp62&layout=compact&hide=html)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjtemp62&show_icons=true&theme=default&hide=contribs)
 
@@ -17,15 +17,15 @@
 - **Tools**: Git, IntelliJ, VSCode  
 
 ## 🚀 Projects
-- [**Closet-In-Diary**](https://github.com/sjtemp62/ClosetInDiary-Backend)  
+- [**Closet-In-Diary**](https://github.com/sjpark1129dev/ClosetInDiary-Backend)  
   A clothing management web app using Spring Boot and React.  
   Includes login, sign-up, outfit management, and diary features.
 
-- [**CLI Blog**](https://github.com/sjtemp62/CLI-Blog)  
+- [**CLI Blog**](https://github.com/sjpark1129dev/CLI-Blog)  
   A command-line blog system written in Java.  
   Created to practice object-oriented programming and Java skills.
 
-- [**Single-Person Household Data Visualization**](https://github.com/sjtemp62/DataScienceProgramming-Project)  
+- [**Single-Person Household Data Visualization**](https://github.com/sjpark1129dev/DataScienceProgramming-Project)  
   A data science project analyzing regional data of single-person households using public datasets.
 
 ## ✏️ I'm Learning
