@@ -6,8 +6,8 @@
 🌱 Currently focused on system design, LeetCode, and cloud-based backend development
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=sjpark1129dev&style=flat&color=blue)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjtemp62&layout=compact&hide=html)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjtemp62&show_icons=true&theme=default&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjpark1129dev&layout=compact&hide=html)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjpark1129dev&show_icons=true&theme=default&hide=contribs)
 
 ## 🛠 Tech Stack
 - **Languages**: Java, Python  
