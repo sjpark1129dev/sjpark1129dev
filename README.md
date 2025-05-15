@@ -3,7 +3,7 @@
 🎓 부산 동의대학교 컴퓨터공학과 3학년 재학 중  
 💻 백엔드 개발자를 꿈꾸는 개발자 | DevOps & 클라우드에 관심 많음  
 🌍 사람들에게 실질적인 도움을 줄 수 있는, 확장 가능한 시스템 구축에 열정을 가지고 있습니다  
-🌱 현재는 시스템 설계, LeetCode 알고리즘 풀이, 클라우드 기반 백엔드 개발에 집중하고 있습니다
+🌱 현재는 시스템 설계, 클라우드 기반 백엔드 개발에 집중하고 있습니다
 
 ![방문자 수](https://komarev.com/ghpvc/?username=sjpark1129dev&style=flat&color=blue)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjpark1129dev&layout=compact&hide=html)  
